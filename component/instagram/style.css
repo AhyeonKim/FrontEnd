@@ -40,7 +40,7 @@ nav {
     margin-left: 16px;
 }
 .links a {
-    margin-right: 8px;
+    margin-right: 16px;
 }
 .links {
     margin-right: 16px;
@@ -170,4 +170,10 @@ footer {
     text-decoration: none;
     color: #8e8e8e;
     font-size: 12px;
+}
+.made {
+    margin: 20px;
+    color: #8e8e8e;
+    font-size: 12px;
+    text-align: center;
 }
